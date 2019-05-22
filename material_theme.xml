@@ -1,0 +1,18 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="allowDataCollection" value="true" />
+    <option name="compactDropdowns" value="true" />
+    <option name="isCompactMenus" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="isCompactTables" value="true" />
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="tabFontSize" value="14" />
+    <option name="accentColor" value="1fb4e9" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-259c9b2a:16ad7172234:-8000" />
+    <option name="version" value="3.9.4" />
+  </component>
+</application>
