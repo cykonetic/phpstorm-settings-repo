@@ -7,6 +7,9 @@
       <webServer id="9c0315c6-cfce-4348-860e-542c32e2eb76" name="intranet" url="http://intranetdev">
         <fileTransfer port="0" mountedRoot="C:\Users\nbush\Workspace\intranet\dev" accessType="MOUNT" />
       </webServer>
+      <webServer id="ac8813b5-5fcc-40a2-9a48-5d7881ed14de" name="Blog Demo" url="http://blog-demo.vm">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
