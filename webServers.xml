@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="9c0315c6-cfce-4348-860e-542c32e2eb76" name="intranet" url="http://intranetdev">
+      <webServer id="9c0315c6-cfce-4348-860e-542c32e2eb76" name="intranetdev" url="http://intranetdev">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
