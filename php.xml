@@ -7,11 +7,7 @@
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter id="44af1984-944f-49c4-b34d-798de37c7251" name="PHP" home="Z:\Programs\php\php.exe" debugger_id="php.debugger.XDebug">
-        <configuration_options>
-          <configuration_option name="include_path" value=".;Z:\www\includes" />
-        </configuration_options>
-      </interpreter>
+      <interpreter id="44af1984-944f-49c4-b34d-798de37c7251" name="PHP" home="Z:\Programs\php\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -21,7 +17,7 @@
           <additional_php_ini />
           <configuration_file>Z:\Programs\php\php.ini</configuration_file>
           <configuration_options>
-            <configuration_option name="include_path" value=".;Z:\www\includes" />
+            <configuration_option name="include_path" value="z:\www\includes;." />
           </configuration_options>
           <debuggers>
             <debugger_info debugger="xdebug" debugger_version="2.7.2">
@@ -31,6 +27,7 @@
           <loaded_extensions>
             <extension name="Core" />
             <extension name="PDO" />
+            <extension name="PDO_ODBC" />
             <extension name="Phar" />
             <extension name="Reflection" />
             <extension name="SPL" />
@@ -57,6 +54,7 @@
             <extension name="mbstring" />
             <extension name="mysqli" />
             <extension name="mysqlnd" />
+            <extension name="odbc" />
             <extension name="openssl" />
             <extension name="pcre" />
             <extension name="pdo_mysql" />
