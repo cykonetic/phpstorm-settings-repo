@@ -1,13 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="60d74be0-3766-4db4-a039-db5976b83025" name="Yii-Demo" url="http://blog-demo">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
       <webServer id="9c0315c6-cfce-4348-860e-542c32e2eb76" name="intranet" url="http://intranetdev">
-        <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="ac8813b5-5fcc-40a2-9a48-5d7881ed14de" name="Blog Demo" url="http://blog-demo.vm">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
